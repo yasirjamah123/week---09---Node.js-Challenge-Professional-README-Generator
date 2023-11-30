@@ -1,7 +1,7 @@
 # README-Generator
 week---09---Node.js-Challenge-Professional-README-Generator
 
-## uder story
+## user story
 ```md
 AS A developer
 I WANT a README generator
